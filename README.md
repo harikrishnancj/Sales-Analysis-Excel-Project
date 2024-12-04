@@ -30,12 +30,7 @@ The dataset has been cleaned and preprocessed to ensure data quality and consist
 The project utilizes Excel's pivot table and chart features to uncover trends and insights related to different aspects of the dataset. These analyses help in understanding factors like customer demographics, purchasing behavior, and sales performance.
 
 ### 3. Sales Analysis Dashboard 
-An interactive sales analysis dashboard is created within Excel, providing an overview of the sales data. The dashboard includes at least 5 charts that help users explore key metrics and trends, such as:
-- Total sales by region
-- Age-wise distribution of bike purchases
-- Income vs. bike purchase trends
-- Gender-based bike purchase insights
-- Marital status vs. bike purchase insights
+An **interactive_sales_analysis_dashboard** is created within Excel, providing an overview of the sales data. The dashboard includes at least 5 charts that help users explore key metrics and trends, such as:
 
 ## Technologies Used
 
